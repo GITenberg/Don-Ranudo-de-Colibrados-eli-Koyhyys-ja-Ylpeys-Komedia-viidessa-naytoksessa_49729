@@ -1,4 +1,5 @@
 _repo: Don-Ranudo-de-Colibrados-eli-Koyhyys-ja-Ylpeys-Komedia-viidessa-naytoksessa_49729
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Gummerus, K. J. (Kaarle Jaakko)
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1898
     gutenberg_agent_id: '5410'
     url: http://www.gutenberg.org/2009/agents/5410
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holberg, Ludvig
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1863
     wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49729#Don-Ranudo-de-Colibrados-eli-Koyhyys-ja-Ylpeys-Komedia-viidessa-naytoksessa
 gutenberg_issued: '2015-08-18'
 gutenberg_type: Text
 identifiers:
